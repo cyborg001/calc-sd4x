@@ -1,5 +1,7 @@
 /*
  * Implement all your JavaScript in this file!
+ * Creado por Carlos Ramirez solo el codigo javascript
+ * el codigo html fue dado por la universidad Penn.
  */
  var op ='+';
  var digit ='';
